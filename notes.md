@@ -1,0 +1,5 @@
+Types of strategic algorithm
+Classification
+Clustering
+Regression
+Recommenders
